@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pacineee
+- 👋 Hi, I’m @pacine
 - 👀 I’m interested in business and software development.
 - 🌱 I’m currently learning programming languages.
 - 💞️ I’m looking to collaborate on various projects to achieve more.
