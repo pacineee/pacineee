@@ -77,6 +77,8 @@ cursor:pointer;
     margin-left: 37px;
     margin-right: 37px;*/
     color: black;
+  }
+  #text-center{
     text-align: center;
   }
   
@@ -97,9 +99,6 @@ cursor:pointer;
   .row {
     display: flex;
   }
-  .column {
-    flex: 90%;
-  }
   img {
     display: flex;
     flex-direction: row;
@@ -112,18 +111,18 @@ cursor:pointer;
   
 
 /*Sides Class have two unequal parts of; leftt-side (Images)and right side (Various content)*/
-  #sides.left-side/*:after*/ {
-    display: inline-block;
+  #sides{
+    display: flex;
     /*clear: both;*/
   }
   .left-side {
-    float: left;
+    /*float: left;*/
     width: 30%;
     /*margin-left: 7px;
     margin-right: 20%;*/
   }
   .right-side {
-    float: right;
+    /*float: right;*/
     width: 70%;
     /*margin-right: 7px;
     margin-left: 80%;*/
