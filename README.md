@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👯 I’m looking to collaborate on **HML, CSS, JS and PHP projects**💞️
+- 👯 I’m looking to collaborate on **HTML, CSS, JS and PHP projects**💞️
 
 - 💬 Ask me about **Html, CSS, JavaScript, PHP as well as their frameworks**
 
