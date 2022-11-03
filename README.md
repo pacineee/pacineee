@@ -1,4 +1,4 @@
-- Greetings 👋, I'm Pacifique Nezerwa, a passionate Web Developer from Rwanda
+- Greetings 👋, I'm Pacifique Nezerwa, a Web Developer from Rwanda
 
 - 🔭 I’m currently working on [Tour Project](https://github.com/pacineee/Real)
 
