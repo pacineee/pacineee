@@ -6,7 +6,7 @@
 
 - 👯 I’m looking to collaborate on **HTML, CSS, JS and PHP projects**💞️
 
-- 💬 Ask me about **Html, CSS, JavaScript, PHP as well as their Libraries & frameworks**
+- 💬 Ask me about **Html, CSS, JavaScript, PHP**
 
 - 📫 How to reach me **pacineee@gmail.com / pacifiquenezerwa@gmail.com**
 
