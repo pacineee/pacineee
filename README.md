@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Html, CSS, JavaScript and PHP**
 
-- 📫 How to reach me **pacineee@gmail.com / pacifiquenezerwa@gmail.com**
+- 📫 How to reach me **pacifiquenezerwa@gmail.com**
 
 - ⚡ Fun fact **I love people and learning new things😋**
 
